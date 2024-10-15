@@ -1,2 +1,3 @@
 # Akrit_Calculator_project
-Web development Project of making Calculator 
+This is a Web development Project in which we I have to make Calculator. 
+
